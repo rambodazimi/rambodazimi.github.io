@@ -84,7 +84,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Research Assistant
+  - position: Researcher
       company_name: McGill University
       company_url: 'https://www.mcgill.ca/ece/'
       company_logo: ''

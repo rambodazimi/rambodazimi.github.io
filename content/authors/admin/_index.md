@@ -54,28 +54,29 @@ education:
     date_start: 2020-09-01
     date_end: 2024-05-01
     summary: |
-      CGPA: 3.67/4. Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisor: [Odile Liboiron-Ladouceur](https://www.mcgill.ca/ece/odile-liboiron-ladouceur) 
+      CGPA: 3.67/4
+      Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisors: Professor Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic
     button:
       text: 'See the poster'
       url: 'https://docs.google.com/presentation/d/1PSLEhLIj4i_aon5fT1EKE06baUGiXKFXLhSrsWv40aw/edit?usp=sharing'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Associate
+    company_name: Mila
+    company_url: 'https://mila.quebec/en/rambod-azimi'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-04-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Research Assistant
+    company_name: McGill University
+    company_url: 'https://www.mcgill.ca/ece/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01-05
+    date_end: ''
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -119,10 +120,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Persian (Farsi)
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

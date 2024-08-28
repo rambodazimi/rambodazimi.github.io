@@ -3,11 +3,11 @@
 title: Rambod Azimi
 
 # Name pronunciation (optional)
-name_pronunciation: Rambod Azimi
+name_pronunciation:
 
 # Full name (for SEO)
-first_name:
-last_name:
+first_name: Rambod
+last_name: Azimi
 
 # Status emoji
 status:
@@ -43,7 +43,8 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - Artificial Intelligence / Machine Learning
+  - Artificial Intelligence
+  - Machine Learning
   - Computer Vision (CV)
   - Natural Language Processing (NLP)
 
@@ -53,32 +54,10 @@ education:
     date_start: 2020-09-01
     date_end: 2024-05-01
     summary: |
-      Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisor: [Odile Liboiron-Ladouceur](https://www.mcgill.ca/ece/odile-liboiron-ladouceur) 
+      CGPA: 3.67/4. Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisor: [Odile Liboiron-Ladouceur](https://www.mcgill.ca/ece/odile-liboiron-ladouceur) 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 'See the poster'
+      url: 'https://docs.google.com/presentation/d/1PSLEhLIj4i_aon5fT1EKE06baUGiXKFXLhSrsWv40aw/edit?usp=sharing'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

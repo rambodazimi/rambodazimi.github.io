@@ -66,7 +66,8 @@ work:
     company_logo: ''
     date_start: 2024-04-01
     date_end: ''
-    summary: |2-
+    summary: |
+      Supervisor: Samira Ebrahimi Kahou
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -78,11 +79,67 @@ work:
     date_start: 2024-01-05
     date_end: ''
     summary: |
+      Supervisor: Odile Liboiron-Ladouceur | Dusan Gostimirovic
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+- position: Research Assistant
+    company_name: McGill University
+    company_url: 'https://www.mcgill.ca/ece/'
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: ''
+    summary: |
+      Supervisor: Muthucumaru Maheswaran
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- position: IT Intern
+    company_name: Walter Surface Technologies
+    company_url: 'https://www.walter.com/en_CA'
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: '2023-08-30'
+    summary: |
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- position: Network Engineer Intern
+    company_name: Ericsson
+    company_url: 'https://www.ericsson.com/en'
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: '2022-08-30'
+    summary: |
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- position: Academic Tutor
+    company_name: McGill University
+    company_url: 'https://www.mcgill.ca/ece/'
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: '2024-04-30'
+    summary: |
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- position: IT Assistant
+    company_name: McGill University - Faculty of Medicine and Health Sciences
+    company_url: 'https://www.mcgill.ca/pgme/'
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: '2024-04-30'
+    summary: |
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

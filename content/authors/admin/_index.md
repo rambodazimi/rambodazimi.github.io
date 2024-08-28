@@ -55,6 +55,7 @@ education:
     date_end: 2024-05-01
     summary: |
       CGPA: 3.67/4
+
       Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisors: Professor Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic
     button:
       text: 'See the poster'
@@ -70,9 +71,8 @@ work:
       Supervisor: Samira Ebrahimi Kahou
 
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
+      - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA.
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -83,9 +83,9 @@ work:
       Supervisor: Odile Liboiron-Ladouceur and Dusan Gostimirovic
 
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted research on manufacturing of integrated photonic ICs using ML approaches
+      - Developed several CNN models such as U-Net, Attention U-Net, SegNet, EfficientNetB7, DeepLab V3+, and PSP Net
+      - Improved the accuracy of the model by using an ensemble of multiple architectures
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -94,12 +94,12 @@ work:
     date_end: ''
     summary: |
       Supervisor: Muthucumaru Maheswaran
-      
+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: IT Intern
+      - Conducted research on real-time Object Tracking using SOTA models (e.g., YOLO)
+      - Integrated Google Maps APIs for pixel-to-world coordinate conversion
+      - Explored NLP techniques to enhance scene understanding and collision detection in LLMs with visualization cues
+  - position: Information Technology Intern
     company_name: Walter Surface Technologies
     company_url: 'https://www.walter.com/en_CA'
     company_logo: ''
@@ -107,9 +107,8 @@ work:
     date_end: 2023-08-30
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed an AI-powered automation software, encompassing projects such as Form Recognizer, Barcode Generator, and OCR solutions
+      - Conceptualizing, designing, and implementing robust algorithms to streamline various processes
   - position: Network Engineer Intern
     company_name: Ericsson
     company_url: 'https://www.ericsson.com/en'
@@ -118,9 +117,8 @@ work:
     date_end: 2022-08-30
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Performed data validation processes on RF networks, ensuring their accuracy, integrity, and optimal performance
+      - Played role in maintaining the quality and reliability of the networks by analyzing and verifying data
   - position: Academic Tutor
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -128,10 +126,11 @@ work:
     date_start: 2021-09-01
     date_end: 2024-04-30
     summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses Taught:
+      - Linear Algebra
+      - Calculus 1, 2
+      - Java/Python Programming
+      - Model-based Programming
   - position: IT Assistant
     company_name: McGill University - Faculty of Medicine and Health Sciences
     company_url: 'https://www.mcgill.ca/pgme/'
@@ -140,9 +139,7 @@ work:
     date_end: 2024-04-30
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collaborated with professors and employers to analyze class performance metrics and facilitating data-driven insights
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

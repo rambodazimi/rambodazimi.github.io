@@ -216,4 +216,4 @@ awards:
 
 ## About Me
 
-Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in AI/ML/NLP/CV and software engineering. Currently working at MILA and McGill on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.
+Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at MILA and McGill University on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.

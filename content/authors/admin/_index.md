@@ -6,8 +6,8 @@ title: Rambod Azimi
 name_pronunciation: Rambod Azimi
 
 # Full name (for SEO)
-first_name: Rambod
-last_name: Azimi
+first_name:
+last_name:
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: AI/ML Researcher at McGill x Mila
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McGill University x Mila
-    url: https://mcgill.ca/
+  - name:
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:rambod.azm@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/@_rambod
+    url: https://www.instagram.com/_rambod
   - icon: brands/github
     url: https://github.com/rambodazimi
   - icon: brands/linkedin

@@ -56,7 +56,9 @@ education:
     summary: |
       CGPA: 3.67/4
 
-      Capstone project on Machine Learning-based prediction of photonic integrated circuits. Supervisors: Professor Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic
+      Capstone project on Machine Learning-based prediction of photonic integrated circuits
+      
+      Supervisors: Professor Odile Liboiron-Ladouceur and Dr. Dusan Gostimirovic
     button:
       text: 'See the poster'
       url: 'https://docs.google.com/presentation/d/1PSLEhLIj4i_aon5fT1EKE06baUGiXKFXLhSrsWv40aw/edit?usp=sharing'
@@ -72,7 +74,7 @@ work:
 
       Responsibilities include:
       - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
-      - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA.
+      - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -214,4 +216,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in AI/ML/NLP/CV and software engineering. Currently working at MILA and McGill on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.

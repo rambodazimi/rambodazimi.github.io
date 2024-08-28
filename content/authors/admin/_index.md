@@ -101,7 +101,7 @@ work:
     company_url: 'https://www.walter.com/en_CA'
     company_logo: ''
     date_start: 2023-05-01
-    date_end: '2023-08-30'
+    date_end: 2023-08-30
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -112,7 +112,7 @@ work:
     company_url: 'https://www.ericsson.com/en'
     company_logo: ''
     date_start: 2022-05-01
-    date_end: '2022-08-30'
+    date_end: 2022-08-30
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -123,7 +123,7 @@ work:
     company_url: 'https://www.mcgill.ca/ece/'
     company_logo: ''
     date_start: 2021-09-01
-    date_end: '2024-04-30'
+    date_end: 2024-04-30
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -134,7 +134,7 @@ work:
     company_url: 'https://www.mcgill.ca/pgme/'
     company_logo: ''
     date_start: 2020-09-01
-    date_end: '2024-04-30'
+    date_end: 2024-04-30
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

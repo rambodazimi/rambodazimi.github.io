@@ -68,6 +68,7 @@ work:
     date_end: ''
     summary: |
       Supervisor: Samira Ebrahimi Kahou
+
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -79,7 +80,8 @@ work:
     date_start: 2024-01-05
     date_end: ''
     summary: |
-      Supervisor: Odile Liboiron-Ladouceur | Dusan Gostimirovic
+      Supervisor: Odile Liboiron-Ladouceur and Dusan Gostimirovic
+
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -92,6 +94,7 @@ work:
     date_end: ''
     summary: |
       Supervisor: Muthucumaru Maheswaran
+      
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

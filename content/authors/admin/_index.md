@@ -145,7 +145,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
@@ -192,7 +192,7 @@ skills:
       - name: PyTorch
         description: ''
         percent: 80
-        icon: book
+        icon: code-bracket
       - name: TensorFlow
         description: ''
         percent: 80
@@ -228,6 +228,40 @@ skills:
       - name: CV2
         description: ''
         percent: 40
+        icon: code-bracket
+  - name: Infrastructure
+    items:
+      - name: AWS
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Azure
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Git
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: GitLab
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Jira
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Bitbucket
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Unix
+        description: ''
+        percent: 80
         icon: code-bracket
 
 languages:

@@ -192,7 +192,7 @@ skills:
       - name: PyTorch
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: book
       - name: TensorFlow
         description: ''
         percent: 80

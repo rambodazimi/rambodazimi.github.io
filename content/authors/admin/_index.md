@@ -263,6 +263,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: OS
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: DevOps
+        description: ''
+        percent: 80
+        icon: code-bracket
 
 languages:
   - name: English

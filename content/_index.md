@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I focus on advancing the frontiers of AI and machine learning, with a particular interest in computer vision and natural language processing.
-        
-        As a research associate at Mila, I am passionate about exploring transformative ideas that push the boundaries of what's possible in AI.
+        I focus on advancing the frontiers of AI and machine learning, with a particular interest in computer vision and natural language processing. As a research associate at Mila, I am passionate about exploring transformative ideas that push the boundaries of what's possible in AI.
         
         I regularly blog about breakthroughs in machine learning, deep learning, and innovative projects.
 

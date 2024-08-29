@@ -187,6 +187,48 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+  - name: Frameworks and Libraries
+    items:
+      - name: PyTorch
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: TensorFlow
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: scikit-learn
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: NumPy
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Pandas
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Transformers
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Flask
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: SpringBoot
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: REST
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: CV2
+        description: ''
+        percent: 40
+        icon: code-bracket
 
 languages:
   - name: English

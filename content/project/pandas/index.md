@@ -1,6 +1,6 @@
 ---
-title: Dashcam Object Tracking System
-date: 2024-04-01
+title: Dashcam Object Tracking
+date: ''
 external_link: https://github.com/rambodazimi/Dashcam-Object-Tracking-System
 tags:
   - Dashcam

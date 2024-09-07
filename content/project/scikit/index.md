@@ -1,13 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Reliable Network Design
+date: ''
+external_link: https://github.com/rambodazimi/Reliable-Network-Design
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Network Design
+  - Reliable
+  - Communication
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+Designed communication networks that maximize reliability within a cost constraint, using both exhaustive enumeration and an efficient algorithm
 <!--more-->

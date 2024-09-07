@@ -1,13 +1,12 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: AI Game Agent
+date: ''
+external_link: https://github.com/rambodazimi/AI-Game-Agent
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - AI
+  - Game Agent
+  - ML
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
+A Best-First Search-based agent that employs heuristic-driven evaluations to optimize decision-making process.
 <!--more-->

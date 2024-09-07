@@ -3,7 +3,7 @@ title: Reliable Network Design
 date: ''
 external_link: https://github.com/rambodazimi/Reliable-Network-Design
 tags:
-  - Network Design
+  - Network
   - Reliable
   - Communication
 ---

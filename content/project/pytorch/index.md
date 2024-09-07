@@ -3,7 +3,7 @@ title: AI Game Agent
 date: ''
 external_link: https://github.com/rambodazimi/AI-Game-Agent
 tags:
-  - AI
+  - BFS
   - Game Agent
   - ML
 ---

@@ -1,13 +1,13 @@
 ---
-title: Handwritten Digit Recognition
+title: Parallel Image Binarization
 date: ''
-external_link: https://github.com/rambodazimi/Handwritten-Digit-Recognition-Neural-Network
+external_link: https://github.com/rambodazimi/Binarize-CUDA-OCR-Enhancement
 tags:
-  - Deep Learning
-  - Digit Recognition
-  - Computer Vision
+  - CUDA
+  - OCR
+  - Binarization
 ---
 
-A CNN model to recognize handwritten digits (0-9), covering dataset loading, model training, and prediction
+Image binarization using CUDA for parallel processing to accelerate and enhance OCR performance
 
 <!--more-->

@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Dashcam Object Tracking System
+date: 2024-04-01
+external_link: https://github.com/rambodazimi/Dashcam-Object-Tracking-System
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Dashcam
+  - Object Tracking
+  - YOLOv8
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Utilized YOLOv8 to analyze dashcam footage, detecting and counting pedestrians, parked cars, and moving vehicles.
 
 <!--more-->

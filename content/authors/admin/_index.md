@@ -33,14 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rambod.azm@gmail.com'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/_rambod
   - icon: brands/github
     url: https://github.com/rambodazimi
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rambod-azimi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0005-0133-3389
+  - icon: brands/instagram
+    url: https://www.instagram.com/_rambod
 
 interests:
   - Artificial Intelligence

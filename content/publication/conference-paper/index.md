@@ -29,7 +29,8 @@ publication_short: In *ENLSP NeurIPS 2024 Workshop*
 
 
 abstract: 
-
+  "Large Language Models (LLMs) have demonstrated remarkable performance across various downstream tasks. However, the high computational and memory requirements of LLMs are major bottlenecks. To address this, Parameter-Efficient Fine-Tuning (PEFT) methods such as Low-Rank Adaptation (LoRA) have come up to reduce computational costs while ensuring minimal loss in performance. Additionally, Knowledge Distillation (KD) has been a popular choice for obtaining compact student models from teacher models. In this work, we present KD-LoRA, a novel fine-tuning method that combines LoRA with KD. Our results demonstrate that KD-LoRA achieves performance comparable to Full Fine-Tuning (FFT) and LoRA while significantly reducing resource consumption. Specifically, KD-LoRA retains 98% of LoRA’s performance on the GLUE benchmark, while being 40% more compact. Additionally, KD-LoRA reduces GPU memory usage by 30% compared to LoRA, while decreasing inference time by 30% compared to both FFT and LoRA. We evaluate KD-LoRA across three encoder-only models: BERT, RoBERTa, and DeBERTaV3."
+  
 # Summary. An optional shortened abstract.
 summary: 
 

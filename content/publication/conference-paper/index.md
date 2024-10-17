@@ -1,5 +1,5 @@
 ---
-title: 'Coming soon'
+title: 'KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ abstract:
 summary: 
 
 tags:
-  - Large Language Models
+  - Large Language Models, Neurips, ENLSP2024
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

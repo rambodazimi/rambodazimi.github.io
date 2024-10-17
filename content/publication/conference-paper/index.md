@@ -21,11 +21,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-workshop']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Coming soon*
-publication_short: In *Coming soon*
+publication: In *Proceedings of the ENLSP NeurIPS 2024 Workshop*
+publication_short: In *ENLSP NeurIPS 2024 Workshop*
 
 abstract: 
 
@@ -33,7 +33,7 @@ abstract:
 summary: 
 
 tags:
-  - Large Language Models, Neurips, ENLSP2024
+  - Neurips, ENLSP2024, LLMs
 
 # Display this page in the Featured widget?
 featured: true

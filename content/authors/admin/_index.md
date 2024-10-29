@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI/ML Researcher at Mila x NRC
+role: AI/ML Researcher at Mila x McGill
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -77,18 +77,18 @@ work:
       Responsibilities include:
       - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
       - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA
-  - position: Co-op Machine Learning Researcher
-    company_name: NRC - National Research Council Canada
-    company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
-    company_logo: ''
-    date_start: 2024-10-01
-    date_end: ''
-    summary: |
-      Supervisors: Yuri Grinberg and Dan‑Xia Xu 
+  #- position: Co-op Machine Learning Researcher
+  #  company_name: NRC - National Research Council Canada
+  #  company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
+  #  company_logo: ''
+  #  date_start: 2024-10-01
+  #  date_end: ''
+  #  summary: |
+  #    Supervisors: Yuri Grinberg and Dan‑Xia Xu 
 
-      Responsibilities include:
-      - Optimized neural networks for image‑based deep learning, focusing on uncertainty reduction and model calibration
-      - Collaborated on interdisciplinary research with applications in photonics and industry, contributing to academic publications
+  #    Responsibilities include:
+  #    - Optimized neural networks for image‑based deep learning, focusing on uncertainty reduction and model calibration
+  #    - Collaborated on interdisciplinary research with applications in photonics and industry, contributing to academic publications
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -325,4 +325,4 @@ awards:
 
 ## About Me
 
-Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at MILA, NRC, and McGill University on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.
+Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at MILA and McGill University on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.

@@ -38,9 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rambod-azimi
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0005-0133-3389
+    url: https://scholar.google.com/citations?user=1yhGHxMAAAAJ&hl=en&oi=sra
   - icon: brands/instagram
     url: https://www.instagram.com/_rambod
 

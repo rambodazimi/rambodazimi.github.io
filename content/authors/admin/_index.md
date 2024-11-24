@@ -43,10 +43,10 @@ profiles:
     url: https://www.instagram.com/_rambod
 
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision (CV)
   - Natural Language Processing (NLP)
+  - Computer Vision (CV)
+  - Machine Learning
+  - Artificial Intelligence
 
 education:
   - area: Bachelor of Software Engineering
@@ -323,4 +323,4 @@ awards:
 
 ## About Me
 
-Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at MILA and McGill University on several impactful projects ranging from software engineering to ML models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.
+Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at MILA and McGill University on several impactful projects ranging from efficient fine-tuning of LLMs to improving fabrication predictability using computer vision models such as U-Net. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.

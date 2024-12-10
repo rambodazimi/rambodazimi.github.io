@@ -35,10 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I focus on advancing the frontiers of AI and machine learning, with a particular interest in computer vision and natural language processing. As a research associate at Mila, I am passionate about exploring transformative ideas that push the boundaries of what's possible in AI.
-        
-        I regularly blog about breakthroughs in machine learning, deep learning, and innovative projects.
+        My research focuses on advancing natural language processing (NLP) through the development of efficient machine learning techniques, particularly for optimizing large language models (LLMs) in real-world applications. I am passionate about designing methods that reduce computational costs while maintaining high performance, enabling the deployment of sophisticated NLP systems on resource-constrained devices.
 
+        I am also particularly interested in knowledge distillation and memory-efficient model compression as strategies for improving the usability and practicality of LLMs. My research investigates innovative techniques to distill and adapt models without sacrificing generalization capabilities, striking a balance between computational efficiency and robustness. Through these efforts, I seek to bridge the gap between cutting-edge NLP innovations and their real-world deployment, empowering researchers and practitioners to create models that are both powerful and resource-conscious.
+        
         Feel free to reach out for collaboration! 😃
     design:
       columns: '1'

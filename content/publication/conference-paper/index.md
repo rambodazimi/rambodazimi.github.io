@@ -45,12 +45,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2410.20777'
-url_code: ''
+url_code: 'https://github.com/rambodazimi/KD-LoRA'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://arxiv.org/pdf/2410.20777'
 url_video: ''
 
 # Featured image

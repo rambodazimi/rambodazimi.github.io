@@ -63,18 +63,6 @@ education:
       text: 'See the poster'
       url: 'https://docs.google.com/presentation/d/1PSLEhLIj4i_aon5fT1EKE06baUGiXKFXLhSrsWv40aw/edit?usp=sharing'
 work:
-  - position: Collaborating Researcher
-    company_name: Mila - Quebec AI Institute
-    company_url: 'https://mila.quebec/en/rambod-azimi'
-    company_logo: ''
-    date_start: 2024-04-01
-    date_end: ''
-    summary: |
-      Supervisor: Samira Ebrahimi Kahou
-
-      Responsibilities include:
-      - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
-      - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA
   - position: Machine Learning Researcher
     company_name: NRC - National Research Council Canada
     company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
@@ -86,7 +74,20 @@ work:
 
       Responsibilities include:
       - Optimized neural networks for image‑based deep learning, focusing on uncertainty reduction and model calibration
-      - Collaborated on interdisciplinary research with applications in photonics and industry, contributing to academic publications
+      - Analyzed fabrication variability in photonic integrated circuits using advanced statistical methods to identify key trends and inconsistencies
+      - Developed predictive models leveraging generative adversarial networks (GANs) to forecast fabrication variabilities and improve design accuracy
+  - position: Collaborating Researcher
+    company_name: Mila - Quebec AI Institute
+    company_url: 'https://mila.quebec/en/rambod-azimi'
+    company_logo: ''
+    date_start: 2024-04-01
+    date_end: '2024-12-30'
+    summary: |
+      Supervisor: Samira Ebrahimi Kahou
+
+      Responsibilities include:
+      - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
+      - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'

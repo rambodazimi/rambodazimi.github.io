@@ -88,6 +88,9 @@ work:
       Responsibilities include:
       - Built an AI-agent for automatic evaluation of excavator operators and integrating them LLM to answer questions using the simulator's documentation
       - Researched various LLM fine-tuning approaches, including (PEFT), knowledge distillation, Adapters, and LoRA
+    button:
+      text: 'See the paper'
+      url: 'https://arxiv.org/abs/2410.20777'
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'
@@ -101,6 +104,9 @@ work:
       - Conducted research on manufacturing of integrated photonic ICs using ML approaches
       - Developed several CNN models such as U-Net, Attention U-Net, SegNet, EfficientNetB7, DeepLab V3+, and PSP Net
       - Improved the accuracy of the model by using an ensemble of multiple architectures
+    button:
+      text: 'See the paper'
+      url: 'https://arxiv.org/abs/2411.16973'
   - position: Research Assistant
     company_name: McGill University
     company_url: 'https://www.mcgill.ca/ece/'

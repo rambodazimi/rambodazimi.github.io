@@ -73,7 +73,6 @@ work:
       Responsibilities include:
       - Implementing Knowledge Distillation (KD) techniques to transfer knowledge from high-performance models to more efficient ones, improving inference speed and reducing computational costs
       - Designing and optimizing ML models utilizing Generative AI, including Generative Adversarial Networks (GANs), to enhance data generation, augmentation, and domain adaptation for various applications
-
   - position: Machine Learning Researcher
     company_name: NRC - National Research Council Canada
     company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'

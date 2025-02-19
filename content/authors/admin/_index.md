@@ -63,12 +63,23 @@ education:
       text: 'See the poster'
       url: 'https://docs.google.com/presentation/d/1PSLEhLIj4i_aon5fT1EKE06baUGiXKFXLhSrsWv40aw/edit?usp=sharing'
 work:
+  - position: Research Engineer Intern
+    company_name: Quantiphi
+    company_url: 'https://quantiphi.com/'
+    company_logo: ''
+    date_start: 2025-02-18
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Implementing Knowledge Distillation (KD) techniques to transfer knowledge from high-performance models to more efficient ones, improving inference speed and reducing computational costs
+      - Designing and optimizing ML models utilizing Generative AI, including Generative Adversarial Networks (GANs), to enhance data generation, augmentation, and domain adaptation for various applications
+
   - position: Machine Learning Researcher
     company_name: NRC - National Research Council Canada
     company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: ''
+    date_end: '2025-02-01'
     summary: |
       Supervisors: Yuri Grinberg and Dan‑Xia Xu 
 

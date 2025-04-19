@@ -312,6 +312,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Build Better Generative Adversarial Networks (GANs)
+    url: https://www.coursera.org/verify/ZC66DTVMGDJJ
+    date: '2025-04-19'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
   - title: Build Basic Generative Adversarial Networks (GANs)
     url: https://www.coursera.org/verify/QHW8O77QTT6T
     date: '2025-01-24'

@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI/ML Researcher at NRC x McGill
+role: AI/ML Researcher at McGill and Quantiphi
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -352,4 +352,4 @@ awards:
 
 ## About Me
 
-Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at NRC and McGill University on several impactful projects ranging from efficient fine-tuning of LLMs to improving fabrication predictability using computer vision models such as U-Net and GANs. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and IT Intern at Walter Surface Technologies.
+Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at Quantiphi (Toronto) and McGill University (Montreal) on several impactful projects ranging from efficient fine-tuning of LLMs to improving fabrication predictability using computer vision models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and at Walter Surface Technologies as an IT Intern.

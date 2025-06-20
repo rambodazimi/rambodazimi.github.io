@@ -68,19 +68,19 @@ work:
     company_url: 'https://quantiphi.com/'
     company_logo: ''
     date_start: 2025-02-18
-    date_end: '2025-07-18'
+    date_end: 2025-07-18
     summary: |
       Responsibilities include:
       - Implementing Knowledge Distillation (KD) techniques to transfer knowledge from high-performance models to more efficient ones, improving inference speed and reducing computational costs
       - Designing and optimizing ML models utilizing Generative AI, including Generative Adversarial Networks (GANs), to enhance data generation, augmentation, and domain adaptation for various applications
-  - position: Machine Learning Researcher
-    company_name: NRC - National Research Council Canada
+  - position: Research Assistant (Machine Learning)
+    company_name: NRC - National Research Council Canada x McGill
     company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: '2025-08-30'
+    date_end: 2025-08-30
     summary: |
-      Supervisors: Yuri Grinberg and Dan‑Xia Xu 
+      Supervisors: Odile Liboiron-Ladouceur, Yuri Grinberg, and Dan‑Xia Xu 
 
       Responsibilities include:
       - Optimized neural networks for image‑based deep learning, focusing on uncertainty reduction and model calibration
@@ -91,7 +91,7 @@ work:
     company_url: 'https://mila.quebec/en/rambod-azimi'
     company_logo: ''
     date_start: 2024-04-01
-    date_end: '2024-12-30'
+    date_end: 2024-12-30
     summary: |
       Supervisor: Samira Ebrahimi Kahou
 
@@ -106,7 +106,7 @@ work:
     company_url: 'https://www.mcgill.ca/ece/'
     company_logo: ''
     date_start: 2024-01-05
-    date_end: '2024-10-30'
+    date_end: 2024-10-30
     summary: |
       Supervisors: Odile Liboiron-Ladouceur and Dusan Gostimirovic
 
@@ -122,7 +122,7 @@ work:
     company_url: 'https://www.mcgill.ca/ece/'
     company_logo: ''
     date_start: 2024-05-01
-    date_end: '2024-08-30'
+    date_end: 2024-08-30
     summary: |
       Supervisor: Muthucumaru Maheswaran
 

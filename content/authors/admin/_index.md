@@ -68,7 +68,7 @@ work:
     company_url: 'https://quantiphi.com/'
     company_logo: ''
     date_start: 2025-02-18
-    date_end: ''
+    date_end: '2025-07-18'
     summary: |
       Responsibilities include:
       - Implementing Knowledge Distillation (KD) techniques to transfer knowledge from high-performance models to more efficient ones, improving inference speed and reducing computational costs
@@ -78,7 +78,7 @@ work:
     company_url: 'https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: '2025-02-01'
+    date_end: '2025-08-30'
     summary: |
       Supervisors: Yuri Grinberg and Dan‑Xia Xu 
 
@@ -352,4 +352,4 @@ awards:
 
 ## About Me
 
-Driven software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in Machine Learning and Software Engineering. Currently working at Quantiphi (Toronto) and McGill University (Montreal) on several impactful projects ranging from efficient fine-tuning of LLMs to improving fabrication predictability using computer vision models. Proficient in Python, Java, C, PyTorch, TensorFlow, Pandas, cv2, and more. Previously interned twice at Ericsson as a Network Engineer Intern and at Walter Surface Technologies as an IT Intern.
+Software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in machine learning, LLMs, backend development, cloud computing, database management, the development of AI-powered software solutions, automation systems, and scalable web applications. Worked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning. Proficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more. Previously interned at Ericsson as Network Engineer Intern and Walter Surface Technologies as IT Intern.

@@ -333,8 +333,8 @@ awards:
   - title: Tomlinson Engagement Award for Mentoring (TEAMS)
     url: ''
     date: '2023-09-01'
-    awarder: Coursera
-    icon: mcgill
+    awarder: McGill University
+    icon: 
     summary: ''
   - title: Advanced Learning Algorithms
     url: https://coursera.org/verify/MYJNKFQY7Q4R

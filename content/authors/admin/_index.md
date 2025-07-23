@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI/ML Researcher at McGill and Quantiphi
+role: AI/ML Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -352,4 +352,4 @@ awards:
 
 ## About Me
 
-  Software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in machine learning, LLMs, backend development, cloud computing, database management, the development of AI-powered software solutions, automation systems, and scalable web applications. Worked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning. Proficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more. Previously interned at Ericsson as Network Engineer Intern and Walter Surface Technologies as IT Intern.
+  Software engineering graduate from McGill University, with a CGPA of 3.67/4, specializing in machine learning, LLMs, backend development, cloud computing, database management, the development of AI-powered software solutions, automation systems, and scalable web applications. Worked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning. Proficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more. Previously interned at Quantiphi as Research Engineer Intern, Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.

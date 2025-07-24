@@ -182,28 +182,28 @@ skills:
         icon: python
       - name: Java
         percent: 80
-        icon: coffee         # ☕
+        icon: java
       - name: C/C++/CUDA
         percent: 80
         icon: microchip
       - name: Swift
         percent: 80
-        icon: bolt           # ⚡ for speed
+        icon: bolt
       - name: OCaml
         percent: 80
-        icon: terminal
+        icon: code
       - name: Bash
         percent: 80
-        icon: terminal
+        icon: code
       - name: Assembly x86, ARM
         percent: 80
-        icon: cog
+        icon: robot
       - name: HTML/CSS/JS
         percent: 80
-        icon: js
+        icon: display
       - name: Data Science
         percent: 100
-        icon: chart-line
+        icon: cdatabase
       - name: SQL, PostgreSQL
         percent: 40
         icon: database
@@ -216,13 +216,13 @@ skills:
         icon: fire
       - name: TensorFlow
         percent: 80
-        icon: brain
+        icon: cube
       - name: scikit-learn
         percent: 80
         icon: cube
       - name: NumPy
         percent: 80
-        icon: cubes
+        icon: cube
       - name: Pandas
         percent: 80
         icon: table

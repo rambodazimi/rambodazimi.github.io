@@ -178,43 +178,33 @@ skills:
     icon: code
     items:
       - name: Python
-        description: ''
         percent: 80
         icon: python
       - name: Java
-        description: ''
         percent: 80
-        icon: java
+        icon: coffee         # ☕
       - name: C/C++/CUDA
-        description: ''
         percent: 80
         icon: microchip
       - name: Swift
-        description: ''
         percent: 80
-        icon: swift
+        icon: bolt           # ⚡ for speed
       - name: OCaml
-        description: ''
         percent: 80
         icon: terminal
       - name: Bash
-        description: ''
         percent: 80
         icon: terminal
       - name: Assembly x86, ARM
-        description: ''
         percent: 80
         icon: cog
       - name: HTML/CSS/JS
-        description: ''
         percent: 80
         icon: js
       - name: Data Science
-        description: ''
         percent: 100
         icon: chart-line
       - name: SQL, PostgreSQL
-        description: ''
         percent: 40
         icon: database
 
@@ -222,43 +212,33 @@ skills:
     icon: laptop-code
     items:
       - name: PyTorch
-        description: ''
         percent: 80
         icon: fire
       - name: TensorFlow
-        description: ''
         percent: 80
         icon: brain
       - name: scikit-learn
-        description: ''
         percent: 80
         icon: cube
       - name: NumPy
-        description: ''
         percent: 80
         icon: cubes
       - name: Pandas
-        description: ''
         percent: 80
         icon: table
       - name: Transformers
-        description: ''
         percent: 80
         icon: robot
       - name: Flask
-        description: ''
         percent: 80
         icon: flask
       - name: SpringBoot
-        description: ''
         percent: 80
         icon: leaf
       - name: REST
-        description: ''
         percent: 100
         icon: share-alt
       - name: CV2
-        description: ''
         percent: 40
         icon: camera
 
@@ -266,45 +246,36 @@ skills:
     icon: server
     items:
       - name: AWS
-        description: ''
         percent: 80
         icon: cloud
       - name: Azure
-        description: ''
         percent: 80
         icon: cloud
       - name: Git
-        description: ''
         percent: 80
         icon: git
       - name: GitLab
-        description: ''
         percent: 80
         icon: gitlab
       - name: Jira
-        description: ''
         percent: 80
         icon: tasks
       - name: Bitbucket
-        description: ''
         percent: 80
         icon: code-branch
       - name: Linux
-        description: ''
         percent: 80
         icon: linux
       - name: Unix
-        description: ''
         percent: 80
         icon: terminal
       - name: OS
-        description: ''
         percent: 80
         icon: desktop
       - name: DevOps
-        description: ''
         percent: 80
         icon: tools
+
 
 languages:
   - name: English

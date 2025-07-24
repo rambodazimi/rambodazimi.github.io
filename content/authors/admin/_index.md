@@ -175,131 +175,136 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Programming Languages
+    icon: code
     items:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: python
       - name: Java
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: java
       - name: C/C++/CUDA
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: microchip
       - name: Swift
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: swift
       - name: OCaml
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: terminal
       - name: Bash
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: terminal
       - name: Assembly x86, ARM
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cog
       - name: HTML/CSS/JS
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: js
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: chart-line
       - name: SQL, PostgreSQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: database
+
   - name: Frameworks and Libraries
+    icon: laptop-code
     items:
       - name: PyTorch
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: fire
       - name: TensorFlow
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: brain
       - name: scikit-learn
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cube
       - name: NumPy
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cubes
       - name: Pandas
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: table
       - name: Transformers
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: robot
       - name: Flask
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: flask
       - name: SpringBoot
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: leaf
       - name: REST
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: share-alt
       - name: CV2
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: camera
+
   - name: Infrastructure
+    icon: server
     items:
       - name: AWS
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cloud
       - name: Azure
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cloud
       - name: Git
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: git
       - name: GitLab
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: gitlab
       - name: Jira
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: tasks
       - name: Bitbucket
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: code-branch
       - name: Linux
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: linux
       - name: Unix
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: terminal
       - name: OS
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: desktop
       - name: DevOps
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: tools
 
 languages:
   - name: English

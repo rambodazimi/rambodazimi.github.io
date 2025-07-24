@@ -185,7 +185,7 @@ skills:
         icon: java
       - name: C/C++/CUDA
         percent: 80
-        icon: microchip
+        icon: code
       - name: Swift
         percent: 80
         icon: bolt
@@ -203,7 +203,7 @@ skills:
         icon: display
       - name: Data Science
         percent: 100
-        icon: cdatabase
+        icon: database
       - name: SQL, PostgreSQL
         percent: 40
         icon: database
